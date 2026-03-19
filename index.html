@@ -23,6 +23,7 @@
       <nav class="site-nav" aria-label="Glavna navigacija">
         <a href="#usluge">Usluge</a>
         <a href="#prednosti">Zašto mi</a>
+        <a class="nav-highlight" href="#procena-rizika">Procena rizika</a>
         <a href="#kontakt">Kontakt</a>
       </nav>
       <a class="header-phone" href="tel:+381110000000">+381 11 000 0000</a>
@@ -286,6 +287,52 @@
             <h3>Dalja podrška i zastupanje</h3>
             <p>Po potrebi nastavljamo saradnju kroz pregovore, izradu akata, savetovanje ili zastupanje.</p>
           </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-soft risk-section" id="procena-rizika">
+      <div class="container">
+        <div class="section-heading" data-reveal>
+          <p class="eyebrow eyebrow-dark">Informativna procena</p>
+          <h2>Procena pravnog rizika za firmu</h2>
+          <p>
+            Kroz nekoliko kratkih pitanja proverite da li je vašem poslovanju potrebna dodatna
+            pravna podrška.
+          </p>
+        </div>
+
+        <div class="risk-grid">
+          <aside class="risk-sidebar" data-reveal>
+            <div class="risk-summary-card">
+              <p class="risk-summary-label">Diskretan pregled</p>
+              <h3>Brza procena za vlasnike, direktore i preduzetnike.</h3>
+              <p>
+                Ovaj upitnik je informativnog karaktera i služi kao orijentaciona procena pravnog
+                rizika u poslovanju. Ne predstavlja pravno mišljenje niti zamenu za konkretnu
+                pravnu analizu.
+              </p>
+            </div>
+
+            <div class="risk-result-card" id="risk-result-card" data-state="neutral">
+              <p class="risk-result-kicker">Rezultat procene</p>
+              <div id="risk-result-content" aria-live="polite">
+                <h3>Popunite upitnik</h3>
+                <p>
+                  Nakon odgovora na sva pitanja dobićete okvirnu procenu nivoa pravnog rizika i
+                  preporuku za naredni korak.
+                </p>
+              </div>
+            </div>
+          </aside>
+
+          <div class="risk-form-shell" data-reveal>
+            <form class="risk-form" id="risk-form" novalidate>
+              <div id="risk-questions"></div>
+              <p class="risk-form-feedback" id="risk-form-feedback" aria-live="polite"></p>
+              <button class="button button-primary" type="submit">Prikažite procenu</button>
+            </form>
+          </div>
         </div>
       </div>
     </section>
