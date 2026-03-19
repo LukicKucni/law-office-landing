@@ -1,4 +1,4 @@
-# ⚖️ Law Office Landing Page
+# Law Office Landing Page
 
 Modern, premium landing page for a Serbian law office focused on business law and legal support for companies.
 
@@ -6,7 +6,7 @@ This project is designed to demonstrate a clean, professional, and high-converti
 
 ---
 
-## 🚀 Overview
+## Overview
 
 The goal of this project is to present a law office in a serious, trustworthy, and elegant way — avoiding generic templates and focusing on clarity, structure, and client conversion.
 
@@ -18,7 +18,7 @@ Target audience:
 
 ---
 
-## ✨ Features
+## Features
 
 - Premium and minimal design
 - Fully responsive layout
@@ -30,7 +30,7 @@ Target audience:
 
 ---
 
-## 📄 Sections Included
+## Sections Included
 
 - Hero section (main message + CTA)
 - Trust & credibility
@@ -42,20 +42,19 @@ Target audience:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - HTML / CSS / JavaScript  
-(or React if you used it — update this part)
 
 ---
 
-## 📸 Preview
+## Preview
 
-_Add a screenshot of the landing page here_
+<img width="1903" height="942" alt="image" src="https://github.com/user-attachments/assets/65d476e1-635c-49f8-9be2-20cd6e8989b5" />
 
 ---
 
-## ⚡ Usage
+## Usage
 
 Clone the repository:
 
